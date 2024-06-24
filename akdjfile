@@ -6,7 +6,13 @@ wonderful
 superb
 excellent 
 unbelievable
+<<<<<<< HEAD
 test
 super duper
 next level  
 
+=======
+super duper
+next level  
+test
+>>>>>>> f01cb846cda4563640f4f06425ac9258433bf369
